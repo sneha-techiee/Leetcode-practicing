@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
