@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0053-maximum-subarray) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
