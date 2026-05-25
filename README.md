@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
