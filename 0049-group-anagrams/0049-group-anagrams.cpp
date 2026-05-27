@@ -4,7 +4,7 @@ public:
     unordered_map<string, vector<string>>mp;
     
 vector<vector<string>> ans;
-      string word;
+      string word;//yes
        string sortedword;
      for(int i =0; i<strs.size();  i++){
         word = strs[i];
