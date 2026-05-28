@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0387-first-unique-character-in-a-string) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
