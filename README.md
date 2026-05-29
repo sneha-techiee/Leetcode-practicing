@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -98,4 +100,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
