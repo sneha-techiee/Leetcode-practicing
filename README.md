@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0125-valid-palindrome) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
@@ -107,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
