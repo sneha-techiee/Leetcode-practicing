@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0496-next-greater-element-i) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,4 +122,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
