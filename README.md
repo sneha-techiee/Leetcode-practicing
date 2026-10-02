@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0238-product-of-array-except-self) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Queue
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0238-product-of-array-except-self) |
 ## Stack
 |  |
