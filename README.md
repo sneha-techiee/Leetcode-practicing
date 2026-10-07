@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0053-maximum-subarray) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
