@@ -12,7 +12,7 @@ public:
                 right = mid ;
             }
         }
-        return nums[left];
+        return nums[left]; // returning because either min is in sorted left half or right, sorted means leftmost ofc will be minimum 
 
     }
 };
