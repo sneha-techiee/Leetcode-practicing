@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0875-koko-eating-bananas) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0875-koko-eating-bananas) |
 ## Queue
 |  |
 | ------- |
