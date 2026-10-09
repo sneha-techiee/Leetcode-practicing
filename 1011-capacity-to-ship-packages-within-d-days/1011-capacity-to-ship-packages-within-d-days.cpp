@@ -10,7 +10,7 @@ public:
         while(left<right){
                     int min_capacity = 0;
         int day = 1;
-            int mid = left+(right-left)/2;
+            int mid = left+(right-left)/2; // to track between minimum capacity and maximum capcity 
             for(int i =0; i<weights.size(); i++){
                 if((min_capacity + weights[i])<=mid){
 min_capacity+=weights[i];
