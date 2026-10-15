@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0704-binary-search) |
