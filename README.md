@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -136,16 +137,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0011-container-with-most-water) |
+| [0316-remove-duplicate-letters](https://github.com/sneha-techiee/Leetcode-practicing/tree/master/0316-remove-duplicate-letters) |
 ## Math
 |  |
 | ------- |
